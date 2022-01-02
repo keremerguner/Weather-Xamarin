@@ -1,0 +1,13 @@
+C:\Users\ergun\Desktop\DENEMELER\Weather\Weather\Weather\bin\Debug\netstandard2.0\Weather.deps.json
+C:\Users\ergun\Desktop\DENEMELER\Weather\Weather\Weather\bin\Debug\netstandard2.0\Weather.dll
+C:\Users\ergun\Desktop\DENEMELER\Weather\Weather\Weather\bin\Debug\netstandard2.0\Weather.pdb
+C:\Users\ergun\Desktop\DENEMELER\Weather\Weather\Weather\obj\Debug\netstandard2.0\Weather.csproj.AssemblyReference.cache
+C:\Users\ergun\Desktop\DENEMELER\Weather\Weather\Weather\obj\Debug\netstandard2.0\Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ergun\Desktop\DENEMELER\Weather\Weather\Weather\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ergun\Desktop\DENEMELER\Weather\Weather\Weather\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ergun\Desktop\DENEMELER\Weather\Weather\Weather\obj\Debug\netstandard2.0\Weather.AssemblyInfoInputs.cache
+C:\Users\ergun\Desktop\DENEMELER\Weather\Weather\Weather\obj\Debug\netstandard2.0\Weather.AssemblyInfo.cs
+C:\Users\ergun\Desktop\DENEMELER\Weather\Weather\Weather\obj\Debug\netstandard2.0\Weather.csproj.CoreCompileInputs.cache
+C:\Users\ergun\Desktop\DENEMELER\Weather\Weather\Weather\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ergun\Desktop\DENEMELER\Weather\Weather\Weather\obj\Debug\netstandard2.0\Weather.dll
+C:\Users\ergun\Desktop\DENEMELER\Weather\Weather\Weather\obj\Debug\netstandard2.0\Weather.pdb

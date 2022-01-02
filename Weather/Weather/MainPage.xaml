@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Weather"
+             x:Class="Weather.MainPage"
+             BackgroundColor="White">
+
+    <AbsoluteLayout>
+        <Image Source="https://cdn.dribbble.com/users/925716/screenshots/3333720/attachments/722375/night.png"
+               Aspect="AspectFill"
+               AbsoluteLayout.LayoutBounds="0,0,1,1"
+               AbsoluteLayout.LayoutFlags="All" />
+
+        <StackLayout Spacing="20"
+                     AbsoluteLayout.LayoutBounds="0,0.17,1,0.5"
+                     AbsoluteLayout.LayoutFlags="All">
+            <Image Source="https://img.icons8.com/color/512/000000/rain--v1.png"
+                   WidthRequest="120" />
+            <Label
+                Text="İSTANBUL"
+                HorizontalOptions="Center"
+                FontSize="30" 
+                TextColor="Azure"/>
+
+            <Label
+                Text="15 °C"
+                HorizontalOptions="Center"
+                FontSize="30"
+                FontAttributes="Bold"
+                TextColor="White"/>
+        </StackLayout>
+
+        <BoxView
+            AbsoluteLayout.LayoutBounds="0,1,1,100"
+            AbsoluteLayout.LayoutFlags="PositionProportional,WidthProportional"
+            BackgroundColor="#125497"
+            Opacity="0.4" />
+
+        <StackLayout
+            Padding="35,0"
+            Orientation="Horizontal"
+            AbsoluteLayout.LayoutBounds="0,1,1,100"
+            AbsoluteLayout.LayoutFlags="PositionProportional,WidthProportional">
+            <Label
+                Text="Sıcaklık"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                TextColor="White"
+                FontSize="17" />
+            <Label
+                Text="Nem"
+                HorizontalOptions="CenterAndExpand"
+                VerticalOptions="Center"
+                TextColor="White"
+                FontSize="17" />
+            <Label
+                Text="Rüzgar"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                TextColor="White"
+                FontSize="17" />
+        </StackLayout>
+    </AbsoluteLayout>
+
+
+</ContentPage>

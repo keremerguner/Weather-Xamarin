@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ctWgjDtfdjXhOoEl6yX1Jcdj2iqi+86yx9A/THH5cd9O0uYaQwQpz/bix80hGfyGyyT484megw1LgZ58f+L+bA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ergun\\Desktop\\DENEMELER\\Weather\\Weather\\Weather.iOS\\Weather.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
